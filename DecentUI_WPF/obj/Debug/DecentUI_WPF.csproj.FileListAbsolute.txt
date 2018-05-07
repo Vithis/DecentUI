@@ -1,0 +1,17 @@
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\bin\Debug\DecentUI_WPF.exe.config
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\bin\Debug\DecentUI_WPF.exe
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\bin\Debug\DecentUI_WPF.pdb
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.csprojResolveAssemblyReference.cache
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\MainWindow.g.cs
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\App.g.cs
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF_MarkupCompile.cache
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF_MarkupCompile.lref
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\MainWindow.baml
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.g.resources
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.Properties.Resources.resources
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.csproj.GenerateResource.cache
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.csproj.CoreCompileInputs.cache
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.exe
+c:\users\vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\DecentUI_WPF.pdb
+C:\Users\Vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\Vilius\documents\visual studio 2017\Projects\DecentUI_WPF\DecentUI_WPF\obj\Debug\SettingsWindow.baml
